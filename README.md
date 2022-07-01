@@ -188,7 +188,7 @@ At present, we officially aim to support the last two versions of the following 
 - Opera
 - Internet Explorer 11
 - Safari iOS
-- Chrome, Firefox and Default Browser Android
+- Chrome, Firefox and Other Default Browser Android
 
 
 
